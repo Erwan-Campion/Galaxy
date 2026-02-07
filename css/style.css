@@ -6,9 +6,27 @@ body {
   background-position: 50px,50px;
   background-attachment: fixed;
   color: #ffffff;
+
 }
 
 div{
+    display: flex;
+    margin : auto;
+    justify-content: center;
+    align-items:  flex-start;
+}
+
+nav{
+    float : left;
+    width : 200px;
+    height: 100;
+    background-color: #245388;
+    margin:  15px;
+    position: fixed;
+
+}
+
+article{
     background: #245388;
     border-radius: 10px;
     max-width: 950px;
