@@ -6,7 +6,7 @@ body {
   background-position: 50px,50px;
   background-attachment: fixed;
   color: #ffffff;
-
+  text-align: justify;
 }
 
 p.signature{
